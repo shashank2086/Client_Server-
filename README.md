@@ -2,7 +2,7 @@
 Simple Client Server Messaging Files using Java and swing
 
 # Info
-There are type files:-
+There are type files:-\n
 -One is with the basic swing GUI
 -Other one is for CLI.
 
